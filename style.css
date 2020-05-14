@@ -1,0 +1,26 @@
+*
+{
+    font-family:Arial, Helvetica, sans-serif;
+}
+table
+{
+    width: 600px;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th,td
+{
+  padding: 10px;
+  border: 2px solid gray;
+}
+tr.even
+{
+ background-color: skyblue;
+}
+tr:hover
+{
+    background-color: gold;
+}
+h1:hover
+{
+    background-color: red;
